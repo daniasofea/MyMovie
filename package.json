@@ -1,0 +1,19 @@
+{
+  "name": "mymovie",
+  "version": "1.0.0",
+  "description": "MyMovie Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^45.2.3"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9"
+  }
+}
